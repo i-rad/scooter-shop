@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "name": "Baby scooter",
+      "price": 99,
+      "href": "#",
+      "images": [
+         {
+            "src": "/images/baby-scooter.webp",
+            "alt": "Baby scooter"
+         },
+         {
+            "src": "/images/scooter.jpg",
+            "alt": "Scooter"
+         }
+      ],
+      "colors": [
+         {
+            "name": "White",
+            "class": "bg-white",
+            "selectedClass": "ring-gray-400"
+         },
+         {
+            "name": "Green",
+            "class": "bg-green-200",
+            "selectedClass": "ring-gray-400"
+         }
+      ],
+      "description": "Our scooters are made from high-quality materials that are built to last, so you can trust that they will stand up to even the most adventurous rides. They feature adjustable handlebars, so they can grow with your child and provide years of enjoyment. And with bright, bold colors and cool designs, your child will be the envy of all their friends on the playground or neighborhood streets.",
+      "details": "The scooters have three wheels - two in the front and one in the back - to enhance stability and ease of use. This design allows younger riders to focus on learning how to balance without worrying about falling over."
+   }
+]
